@@ -1,5 +1,6 @@
 # README Ex1
-
+## My I.D: 215596339
+## Github link: 
 ## Project Overview
 This project provides utilities for working with numbers in various bases (2-16). It includes functionalities such as base conversion, validation, comparison, and finding maximum values. The project contains an interactive console application and a comprehensive set of test cases.
 
@@ -27,3 +28,14 @@ This project provides utilities for working with numbers in various bases (2-16)
   - Ensures robust handling of edge cases and invalid inputs.
 
 ---
+### `Example output`
+Ex1 class solution:
+Enter a string as number#1 (or "quit" to end the program): 101b2
+Enter a string as number#2 (or "quit" to end the program): 2
+Enter a base for output (a number [2,16]): 10
+101b2 + 2 = 7
+101b2 * 2 = 10
+Max number over [101b2,2,7,10] is 10
+
+Enter a string as number#1 (or "quit" to end the program): quit
+Quitting now...
